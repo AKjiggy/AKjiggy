@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi Hi, I'm temi 👋
 
-<!--
-**AKjiggy/AKjiggy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm learning software development and building projects to improve my programming skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Currently Learning
+
+Programming fundamentals
+JavaScript
+Git and GitHub
+Problem-solving
+🛠️ Skills
+
+HTML and CSS
+JavaScript (learning)
+🎯 Goals
+
+Build useful software projects
+Learn good coding practices
+Collaborate with other developers
+Grow into a professional software engineer
+📌 Projects
+
+My projects will be added here as I continue learning.
+
+📫 Connect With Me
+
+
 -->
